@@ -1,10 +1,3 @@
-//
-//  ScrumdingerTests.swift
-//  ScrumdingerTests
-//
-//  Created by Martin Lundberg on 22.02.23.
-//
-
 import XCTest
 
 final class ScrumdingerTests: XCTestCase {
